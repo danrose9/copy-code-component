@@ -7,4 +7,4 @@ React component using the following libraries
 - Styled Components 5.3.6
 - Semantic UI React 2.1.3
 
-Test file still to be added
+Test file to be added
