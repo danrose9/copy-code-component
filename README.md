@@ -8,3 +8,4 @@ React component using the following libraries
 - Semantic UI React 2.1.3
 
 Test file to be added
+...
